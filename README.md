@@ -14,7 +14,7 @@ Potential applications include gesture recognition, HCI (human-computer interact
 
 ---
 
-## 🖼 Screenshots
+##  Screenshots
 
 ### Hand Segmentation
 The hand region is extracted from the webcam feed using background subtraction and contour detection.  
@@ -26,4 +26,3 @@ The convex hull highlights fingertips, and the system counts fingers in real tim
 
 <img width="600" alt="Finger Detection" src="https://github.com/user-attachments/assets/d4949fc2-8e0d-4280-850b-88437bab0a62" />
 
----
