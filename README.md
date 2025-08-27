@@ -1,6 +1,6 @@
 #  Finger Counter using OpenCV
 
-This project detects and counts fingers in real time using **Python**, **OpenCV**, and **NumPy**.
+This project detects and counts fingers in real time using Python, OpenCV, and NumPy.
 
 ---
 
@@ -8,7 +8,7 @@ This project detects and counts fingers in real time using **Python**, **OpenCV*
 - Background subtraction
 - Hand segmentation with contours
 - Convex hull + geometry for finger counting
-- Real-time webcam detection
+- Real time webcam detection
 
 ---
 
@@ -26,5 +26,5 @@ The convex hull highlights fingertips, and the system counts fingers in real tim
 
 ---
 
-## 🎯 Result
-The system overlays the **finger count** on the live webcam feed in real time.
+##  Result
+The system overlays the finger count on the live webcam feed in real time.
